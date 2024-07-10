@@ -37,7 +37,7 @@ One-click **FREE** deployment of your private OpenAI ChatGPT/Claude/Gemini/Groq/
 [![][share-mastodon-shield]][share-mastodon-link]
 [![][share-linkedin-shield]][share-linkedin-link]
 
-<sup>Pioneering the new age of thinking and creating. Built for you, the Super Individual.</sup>
+<sup>Pioneering the new age of thinking and creating. Built for you, the Super Individual..</sup>
 
 [![][github-trending-shield]][github-trending-url]
 
@@ -50,32 +50,38 @@ One-click **FREE** deployment of your private OpenAI ChatGPT/Claude/Gemini/Groq/
 
 #### TOC
 
-- [👋🏻 Getting Started & Join Our Community](#-getting-started--join-our-community)
-- [✨ Features](#-features)
-  - [`1` Multi-Model Service Provider Support](#1-multi-model-service-provider-support)
-  - [`2` Local Large Language Model (LLM) Support](#2-local-large-language-model-llm-support)
-  - [`3` Model Visual Recognition](#3-model-visual-recognition)
-  - [`4` TTS & STT Voice Conversation](#4-tts--stt-voice-conversation)
-  - [`5` Text to Image Generation](#5-text-to-image-generation)
-  - [`6` Plugin System (Function Calling)](#6-plugin-system-function-calling)
-  - [`7` Agent Market (GPTs)](#7-agent-market-gpts)
-  - [`8` Support Local / Remote Database](#8-support-local--remote-database)
-  - [`9` Support Multi-User Management](#9-support-multi-user-management)
-  - [`10` Progressive Web App (PWA)](#10-progressive-web-app-pwa)
-  - [`11` Mobile Device Adaptation](#11-mobile-device-adaptation)
-  - [`12` Custom Themes](#12-custom-themes)
-  - [`*` What's more](#-whats-more)
-- [⚡️ Performance](#️-performance)
-- [🛳 Self Hosting](#-self-hosting)
-  - [`A` Deploying with Vercel, Zeabur or Sealos](#a-deploying-with-vercel-zeabur-or-sealos)
-  - [`B` Deploying with Docker](#b-deploying-with-docker)
-  - [Environment Variable](#environment-variable)
-- [📦 Ecosystem](#-ecosystem)
-- [🧩 Plugins](#-plugins)
-- [⌨️ Local Development](#️-local-development)
-- [🤝 Contributing](#-contributing)
-- [❤️ Sponsor](#️-sponsor)
-- [🔗 More Products](#-more-products)
+- [Lobe Chat](#lobe-chat)
+      - [TOC](#toc)
+      - [](#)
+  - [👋🏻 Getting Started \& Join Our Community](#-getting-started--join-our-community)
+  - [✨ Features](#-features)
+    - [`1` Multi-Model Service Provider Support](#1-multi-model-service-provider-support)
+      - [Supported Model Service Providers](#supported-model-service-providers)
+    - [`2` Local Large Language Model (LLM) Support](#2-local-large-language-model-llm-support)
+    - [`3` Model Visual Recognition](#3-model-visual-recognition)
+    - [`4` TTS \& STT Voice Conversation](#4-tts--stt-voice-conversation)
+    - [`5` Text to Image Generation](#5-text-to-image-generation)
+    - [`6` Plugin System (Function Calling)](#6-plugin-system-function-calling)
+    - [`7` Agent Market (GPTs)](#7-agent-market-gpts)
+    - [`8` Support Local / Remote Database](#8-support-local--remote-database)
+    - [`9` Support Multi-User Management](#9-support-multi-user-management)
+    - [`10` Progressive Web App (PWA)](#10-progressive-web-app-pwa)
+    - [`11` Mobile Device Adaptation](#11-mobile-device-adaptation)
+    - [`12` Custom Themes](#12-custom-themes)
+    - [`*` What's more](#-whats-more)
+  - [⚡️ Performance](#️-performance)
+  - [🛳 Self Hosting](#-self-hosting)
+    - [`A` Deploying with Vercel, Zeabur or Sealos](#a-deploying-with-vercel-zeabur-or-sealos)
+      - [After Fork](#after-fork)
+      - [Keep Updated](#keep-updated)
+    - [`B` Deploying with Docker](#b-deploying-with-docker)
+    - [Environment Variable](#environment-variable)
+  - [📦 Ecosystem](#-ecosystem)
+  - [🧩 Plugins](#-plugins)
+  - [⌨️ Local Development](#️-local-development)
+  - [🤝 Contributing](#-contributing)
+  - [❤️ Sponsor](#️-sponsor)
+  - [🔗 More Products](#-more-products)
 
 ####
 
